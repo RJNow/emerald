@@ -127,8 +127,8 @@
   	display: inline-block;
   }
   img {
-  	max-height: 72px;
-  	margin: 0 auto;
+  	max-height: 120px;
+  	margin: -23px auto;
   	display: block;
   }
   h1 {
@@ -197,9 +197,6 @@ img {
 
 img[title="Emerald"] {
     box-shadow: 0 2px 6px #ddd;
-    width: 300px;
-    height: 300px;
-
   }
 
 code {
