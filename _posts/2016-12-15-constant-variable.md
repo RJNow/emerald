@@ -1,6 +1,8 @@
 ---
 title: Constant Variable
 ---
+<!--break-->
+
 ```javascript
 const varName = '515' 
 ```
