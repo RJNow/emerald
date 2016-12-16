@@ -1,115 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 73.6244 115.2768" enable-background="new 0 0 73.6244 115.2768" xml:space="preserve">
-<g id="Livello_3" display="none">
-	<rect x="-210.4553" y="-125.2525" display="inline" fill="#FFFDEF" width="500" height="500"/>
-</g>
-<g id="Livello_4" display="none">
-	<path display="inline" fill="#95C11F" d="M124.1447,57.2975c0,4.77-0.38,9.46-1.13,14.02c-2.49,15.47-9.04,29.57-18.53,41.19
-		c-3.73,4.5699-7.91,8.75-12.48,12.48c-11.51,9.41-25.48,15.93-40.78,18.46c-4.69,0.79-9.5,1.19-14.41,1.19
-		c-48.24,0-87.34-39.1-87.34-87.34c0-48.23,39.1-87.33,87.34-87.33C85.0447-30.0326,124.1447,9.0675,124.1447,57.2975z"/>
-	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="36.6072" y1="56.875" x2="98.3622" y2="118.63">
-		<stop  offset="0" style="stop-color:#F9B233"/>
-		<stop  offset="1" style="stop-color:#FFFFFF"/>
-	</linearGradient>
-	<path display="inline" fill="url(#SVGID_1_)" d="M123.0146,71.3175c-2.49,15.47-9.04,29.57-18.53,41.19l-12.48,12.48
-		c-11.51,9.41-25.48,15.93-40.78,18.46l-50.6-50.59l71.97-71.96L123.0146,71.3175z"/>
-</g>
-<g id="Livello_5" display="none">
-	<g display="inline">
-		<defs>
-			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-2.9237" y="129.4141" width="79.4719" height="17.3333">
-				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
-				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
-			</filter>
-		</defs>
-		<mask maskUnits="userSpaceOnUse" x="-2.9237" y="129.4141" width="79.4719" height="17.3333" id="SVGID_2_">
-			<g filter="url(#Adobe_OpacityMaskFilter)">
-				
-					<image overflow="visible" width="348" height="89" xlink:href="data:image/jpeg;base64,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
-dsyxTbtmWKbdsyxTbtmWKbdsyxTbtmWKbdsyxTbtmWKbdsyxTbtmWKbdsyxTbtmWKbdsyxTbtmWK
-bdsyxTbtmWKbdsyxa2NyXhhw8xjQP9CRgb9FMb9R+0fjS52cXWX0MvwkJelsN5us+lzs4usvkkJC
-QlpISEhISEhISEtJCQkJCXksN5us+lzs4usvjlpIS88hL8JeGw3m6z6XOzi6y+12G83WfS52cXWX
-2uw3m6z6XOzi6y+12G83WfS52cXWX2uw3m6z6XOzi6y+Ges9JiflmJ6TExPxWG83WfS52cXWXzTE
-xMTE9J/hMTExMTE/NYbzdZ9LnZxdZfRzExMTExP0dhvN1n05P9A14bhjyQLD/nDjgaEPoWBZ/aHw
-MidqCxkTtQWMidqCxkTtQWMidqCxkTtQWMidqCxkTtQWMidqCxkTtQWMidqCxkTtQWMidqCxkTtQ
-WMidqCxkTtQWMidqCxkTtQWMidqCxkTtQWMidqCxkTtQWMidqCxkTtQWMidqCxkTtQWMidqCxkTt
-QWMidqCxkTtQWMidqCxkTtQWMidqCxkTtQWMidqCxkTtQWMidqCxkTtQWMidqCxkTtQWMidqCxkT
-tQWOD/QLem5Y8EYxhxx44FhH+SxLP7R+dP/Z" transform="matrix(0.24 0 0 0.24 -4.9237 127.4141)">
-				</image>
-			</g>
-		</mask>
-		<g mask="url(#SVGID_2_)">
-			<ellipse cx="36.8122" cy="138.0808" rx="39.736" ry="8.6667"/>
-		</g>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 70 70" enable-background="new 0 0 70 70" xml:space="preserve">
+<g>
+	<g>
+		<path fill="#333333" d="M59.3,35c0-3.3-4-5.7-9.5-7.1c3.1-5.8,4.5-10.8,2.6-13.1c-0.4-0.5-1.2-1.1-2.6-1.1
+			c-3.3,0-8.7,3.6-14.4,9.3c-5.7-5.7-11.1-9.3-14.4-9.3c-1.4,0-2.2,0.6-2.6,1.1c-1.9,2.3-0.5,7.4,2.6,13.1c-5.6,1.5-9.5,3.9-9.5,7.1
+			s4,5.7,9.5,7.1c-3.1,5.8-4.5,10.8-2.6,13.1c0.4,0.5,1.2,1.1,2.6,1.1c3.3,0,8.7-3.6,14.4-9.3c5.7,5.7,11.1,9.3,14.4,9.3
+			c1.4,0,2.2-0.6,2.6-1.1c1.9-2.3,0.5-7.4-2.6-13.1C55.3,40.7,59.3,38.3,59.3,35z M49.7,15.6c0.7,0,0.9,0.2,1.1,0.4
+			c1.2,1.4,0,5.7-3,11.4c-2.9-0.6-6.1-1-9.3-1.2c-0.6-0.7-1.2-1.3-1.7-1.9C42.4,18.6,47.3,15.6,49.7,15.6z M39.1,39.9
+			c-0.5,0.7-1.1,1.3-1.6,1.9c-0.7,0-1.5,0-2.2,0s-1.5,0-2.2,0c-0.5-0.6-1.1-1.2-1.6-1.9c-1.4-1.7-2.6-3.3-3.8-4.9
+			c1.2-1.6,2.4-3.2,3.8-4.9c0.5-0.7,1.1-1.3,1.6-1.9c0.7,0,1.5,0,2.2,0c0.8,0,1.5,0,2.2,0c0.5,0.6,1.1,1.2,1.6,1.9
+			c1.4,1.7,2.6,3.3,3.8,4.9C41.7,36.6,40.5,38.2,39.1,39.9z M44.1,36.7c1,1.4,1.8,2.8,2.6,4.1c-1.9,0.4-4.1,0.7-6.5,0.9
+			c0.1-0.2,0.3-0.3,0.4-0.5C41.8,39.7,43,38.2,44.1,36.7z M35.6,43.8c-0.1,0.1-0.2,0.3-0.4,0.4c-0.1-0.1-0.2-0.3-0.4-0.4
+			c0.1,0,0.2,0,0.4,0C35.4,43.8,35.5,43.8,35.6,43.8z M30.3,41.7c-2.3-0.2-4.5-0.5-6.5-0.9c0.8-1.3,1.6-2.7,2.6-4.1
+			c1.1,1.5,2.3,3,3.5,4.5C30,41.3,30.2,41.5,30.3,41.7z M26.4,33.3c-1-1.4-1.8-2.8-2.6-4.1c1.9-0.4,4.1-0.7,6.5-0.9
+			c-0.1,0.2-0.3,0.3-0.4,0.5C28.7,30.3,27.5,31.8,26.4,33.3z M34.9,26.2c0.1-0.1,0.2-0.3,0.4-0.4c0.1,0.1,0.2,0.3,0.4,0.4
+			c-0.1,0-0.2,0-0.4,0C35.1,26.2,35,26.2,34.9,26.2z M40.6,28.8c-0.1-0.2-0.3-0.3-0.4-0.5c2.3,0.2,4.5,0.5,6.5,0.9
+			c-0.8,1.3-1.6,2.7-2.6,4.1C43,31.8,41.8,30.3,40.6,28.8z M19.8,16c0.1-0.2,0.4-0.4,1.1-0.4c2.4,0,7.3,3,13,8.7
+			c-0.6,0.6-1.2,1.2-1.7,1.9c-3.2,0.2-6.4,0.5-9.3,1.2C19.7,21.7,18.6,17.4,19.8,16z M13.3,35c0-1.9,3.2-4,8.6-5.3
+			c1,1.8,2.2,3.5,3.4,5.3c-1.2,1.8-2.4,3.6-3.4,5.3C16.5,39,13.3,36.9,13.3,35z M20.9,54.4c-0.7,0-0.9-0.2-1.1-0.4
+			c-1.2-1.4,0-5.7,3-11.4c2.9,0.6,6.1,1,9.3,1.2c0.6,0.7,1.2,1.3,1.7,1.9C28.1,51.4,23.2,54.4,20.9,54.4z M50.7,54
+			c-0.1,0.1-0.3,0.4-1.1,0.4c-2.4,0-7.3-3-13-8.7c0.6-0.6,1.2-1.2,1.7-1.9c3.2-0.2,6.4-0.5,9.3-1.2C50.8,48.3,51.9,52.6,50.7,54z
+			 M48.7,40.3c-1-1.8-2.2-3.6-3.4-5.3c1.2-1.8,2.4-3.6,3.4-5.3c5.3,1.3,8.6,3.4,8.6,5.3C57.3,36.9,54,39,48.7,40.3z"/>
 	</g>
-</g>
-<g id="Livello_1">
-	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="0" y1="57.6384" x2="73.6244" y2="57.6384">
-		<stop  offset="0" style="stop-color:#3F9F36"/>
-		<stop  offset="1" style="stop-color:#008A3B"/>
-	</linearGradient>
-	<path fill="url(#SVGID_3_)" d="M72.2141,94.9177l-33.944,19.9622c-0.8999,0.5292-2.0158,0.5292-2.9157,0L1.4128,94.9191
-		C0.5375,94.4044,0,93.4647,0,92.4492V23.0285c0-1.0091,0.5318-1.9436,1.3993-2.459L35.3434,0.4034
-		c0.9054-0.5379,2.0323-0.5379,2.9377,0l33.9415,20.1647c0.8691,0.5163,1.4018,1.4525,1.4018,2.4634v69.4207
-		C73.6244,93.4658,73.0879,94.4038,72.2141,94.9177z"/>
-	<path fill="#3AAA35" d="M36.8122,0.0298c-0.6192,0-1.2384,0.1628-1.7911,0.4885L1.7368,20.1322
-		c-0.5823,0.3432-1.0373,0.842-1.3374,1.4229l36.4128,36.4128V0.0298z"/>
-	<path fill="#38A032" d="M36.8122,57.9679L73.225,21.5551c-0.3001-0.5808-0.7551-1.0797-1.3374-1.4229L38.6033,0.5183
-		c-0.5526-0.3257-1.1719-0.4885-1.7911-0.4885L36.8122,57.9679L36.8122,57.9679z"/>
-	<polygon fill="#2FAC66" points="36.8122,57.3084 36.8122,57.3084 36.8122,57.3084 	"/>
-	<polygon fill="#2FAC66" points="36.8122,57.3084 36.8122,57.3084 36.8122,57.3084 	"/>
-	<path fill="#38A032" d="M36.8122,57.9679L0.3994,21.5551C0.1448,22.0477,0,22.5984,0,23.1717V57.968L36.8122,57.9679
-		L36.8122,57.9679z"/>
-	<path fill="#008D36" d="M73.225,93.7212c0.2545-0.4926,0.3994-1.0433,0.3994-1.6165V57.3084H36.8122L73.225,93.7212z"/>
-	<path fill="#369C31" d="M0,57.3084v34.7963c0,0.5732,0.1448,1.124,0.3994,1.6165l36.4128-36.4128H0z"/>
-	<path fill="#369C31" d="M73.225,21.5551L36.8122,57.9679v0h36.8122V23.1717C73.6244,22.5984,73.4796,22.0477,73.225,21.5551z"/>
-	<path fill="#008D36" d="M0.3994,93.7212c0.3001,0.5808,0.7551,1.0797,1.3374,1.4229l33.2843,19.614
-		c0.5526,0.3257,1.1718,0.4885,1.7911,0.4885V57.3084L0.3994,93.7212z"/>
-	<path fill="#008533" d="M36.8122,57.3084v57.9381c0.6192,0,1.2385-0.1628,1.7911-0.4885l33.2843-19.614
-		c0.5823-0.3432,1.0373-0.8421,1.3374-1.4229L36.8122,57.3084L36.8122,57.3084z"/>
-	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="15.2808" y1="36.1067" x2="58.3436" y2="79.1696">
-		<stop  offset="0" style="stop-color:#3F9F36"/>
-		<stop  offset="1" style="stop-color:#008A3B"/>
-	</linearGradient>
-	<polygon fill="url(#SVGID_4_)" points="58.5085,79.0047 36.8122,91.7322 15.1159,79.0047 15.1159,36.2716 36.8122,23.4141 
-		58.5085,36.2716 	"/>
-</g>
-<g id="Livello_2" display="none">
-	
-		<text transform="matrix(1 0 0 1 -138.4556 198.0802)" display="inline" fill="#212121" font-family="'Signika-Semibold'" font-size="100">emerald</text>
 </g>
 </svg>
