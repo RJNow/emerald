@@ -1,6 +1,9 @@
 ---
 title: Constant Variable
 ---
+
+kjdnjcd
+
 <!--break-->
 
 ```javascript
