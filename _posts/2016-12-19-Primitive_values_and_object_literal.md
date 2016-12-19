@@ -1,7 +1,7 @@
 ---
 title: Primitive values and Object literal 
 ---
-Java has eight Primitive types: 
+Java has eight Primitive types:   
 * Byte  
 * Short  
 * Int  
