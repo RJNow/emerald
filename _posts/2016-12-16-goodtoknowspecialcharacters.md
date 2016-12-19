@@ -1,10 +1,9 @@
 ---
 title: Good to know special characters 
 ---
-Good to know special characters 
+**Special characters:**
 
-Special characters:
-
+```javascript
 \n: Newline
 \t: Tab
 \b: Backspace
@@ -12,3 +11,4 @@ Special characters:
 \\: Backslash
 \': Single quote
 \": Double quote
+```
