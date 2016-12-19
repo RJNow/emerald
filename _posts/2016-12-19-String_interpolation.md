@@ -1,9 +1,9 @@
 ---
 title: Template literals
 ---
-Is a new way to create a String. It's introduced in ES6, where were given more control over dynamic strings in our programs. 
+A form of Interpolation, Its a new way to create a String. It's introduced in ES6, where were given more control over dynamic strings in our programs. 
 
-To create a template literal, instead of single quotes (') or double quotes (") quotes we use the backtick (`) character. This will produce a new string, and we can use it in any way we want.
+To create a Template literal, instead of single quotes (') or double quotes (") quotes we use the backtick (`) character. This will produce a new string, and we can use it in any way we want.
 
 
 ```javascript
