@@ -2,6 +2,15 @@
 layout: default
 ---
 <!-- Posts -->
+
+<script>
+
+	#trun{
+		font-size: 12px;
+	}
+
+</script>
+
 <ul id="posts">
 
 	{% for post in paginator.posts %}
@@ -10,7 +19,8 @@ layout: default
 	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
 	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
 	  	<p>{{ post.content | strip_html | truncatewords:20 }}</p>
-	  	<h4><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">Read more</a></h4>
+
+	  	<h6 id="trun"> <a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">Read more</a> </h6>
 
 	  </li>
 
